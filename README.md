@@ -63,10 +63,40 @@
   </a>
 </p>
 
+
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+          <a href="https://www.linkedin.com/in/anand511/" target="_blank" title="Visit my Linkedin">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
+          </a>
+      </td>
+      <td>
+          <a href="https://twitter.com/AnandShukl84714" target="_blank" title="Visit my twitter">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
+          </a>
+      </td>
+      <td>
+          <a href="https://www.instagram.com/aanandshuklaa/?hl=en" target="_blank" title="Visit my Instagram">
+            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
+          </a>
+      </td>
+      <td>
+          <a href="https://www.facebook.com/" target="_blank" title="Visit my facebook">
+            <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="facebook" width="40" height="40"/>
+          </a>
+      </td>
+  </table>
+</div>
+
 ---
 
 ### 🌱 Currently Learning
-Machine Learning 
+Machine Learning, Deep Learning, Computer Vision
 
 ---
 
@@ -133,39 +163,6 @@ Machine Learning
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" width="65px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" width="65px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" width="65px"></img>
-
----
-
-## 🌐 Connect with me through:
-
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-          <a href="https://www.linkedin.com/in/anand511/" target="_blank" title="Visit my Linkedin">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40"/>
-          </a>
-      </td>
-      <td>
-          <a href="https://twitter.com/AnandShukl84714" target="_blank" title="Visit my twitter">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" width="40" height="40"/>
-          </a>
-      </td>
-      <td>
-          <a href="https://www.instagram.com/aanandshuklaa/?hl=en" target="_blank" title="Visit my Instagram">
-            <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40"/>
-          </a>
-      </td>
-      <td>
-          <a href="https://www.facebook.com/" target="_blank" title="Visit my facebook">
-            <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" alt="facebook" width="40" height="40"/>
-          </a>
-      </td>
-  </table>
-</div>
 
 ---
 
