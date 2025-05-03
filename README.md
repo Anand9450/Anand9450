@@ -23,11 +23,9 @@
 ---
 ## Welcome to My GitHub Profile
 
-- 🏫 I'm currently prefinal year CSE student at [Pranveer Singh Institute of Technology](https://www.psit.ac.in// "visit my college website").
+- 🏫 I'm currently prefinal year CSE **Data Science** student at [Pranveer Singh Institute of Technology](https://www.psit.ac.in// "visit my college website").
 
 ## 📌 About Me
-
-- 🎓 Undergraduate in **Data Science** from PSIT Kanpur
 - 📊 Aspiring **Data Analyst** passionate about data-driven decision making
 - ✍️ Author of *Scars and Silence* — a bilingual poetry collection exploring growth, responsibility, and healing
 - 🌱 Currently learning **Power BI**, **Machine Learning**, and **Advanced Analytics**
