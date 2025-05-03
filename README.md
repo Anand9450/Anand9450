@@ -23,7 +23,7 @@
 ---
 ## Welcome to My GitHub Profile
 
-- 🏫 I'm currently prefinal year CSE student at [PSIT Engineering College](https://www.psit.ac.in// "visit my college website").
+- 🏫 I'm currently prefinal year CSE student at [Pranveer Singh Institute of Technology](https://www.psit.ac.in// "visit my college website").
 
 ## 📌 About Me
 
@@ -44,7 +44,6 @@
   <img src="https://img.shields.io/badge/PowerBI-ffc0cb?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Pandas-ffe4e1?style=for-the-badge&logo=pandas&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit--learn-f7cac9?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-f8c8dc?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 <br/>
 
@@ -114,8 +113,6 @@
   </a>
 </p>
 
-
-
 <br/>
 
 <div align="center">
@@ -156,10 +153,6 @@
 
 ---
 
-### 🌱 Currently Learning
-Machine Learning, Deep Learning, Computer Vision
-
----
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -168,9 +161,16 @@ Machine Learning, Deep Learning, Computer Vision
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anand9450&theme=blueberry_duo"/>
 </p>
 
+
 | <img src="https://github-profile-trophy.vercel.app/?username=Anand9450&theme=darkhub&column=9" alt="My GitHub stats"> |
 | --- |
+
+---
 | ![Anand9450](https://github-readme-activity-graph.vercel.app/graph?username=Anand9450&theme=react-dark) |
+
+---
+### 🌱 Currently Learning
+Machine Learning, Deep Learning, Computer Vision...
 
 ---
 
