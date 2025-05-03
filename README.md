@@ -25,7 +25,7 @@
 
 - 🏫 I'm currently prefinal year CSE student at [PSIT Engineering College](https://www.psit.ac.in// "visit my college website").
 
-### 📌 About Me
+## 📌 About Me
 
 - 🎓 Undergraduate in **Data Science** from PSIT Kanpur
 - 📊 Aspiring **Data Analyst** passionate about data-driven decision making
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies 💻
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ffd1dc?style=for-the-badge&logo=python&logoColor=black"/>
@@ -46,18 +46,13 @@
   <img src="https://img.shields.io/badge/Scikit--learn-f7cac9?style=for-the-badge&logo=scikit-learn&logoColor=black"/>
   <img src="https://img.shields.io/badge/Linux-f8c8dc?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
-
----
-
-## 💻 I'm familiar with the following tech stacks:
-
 <br/>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/CODEBRAKERBOYY?tab=repositories&q=&type=&language=c&sort=" target="_blank" title="View my C Programming repo(s)"> 
+        <a href="#" title="View my C Programming repo(s)"> 
           <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" alt="c" width="40" height="40"/> 
         </a>
       </td>
