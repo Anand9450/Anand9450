@@ -1,10 +1,5 @@
 ![Anand9450_header](https://user-images.githubusercontent.com/25181517/117185899-9ccba680-adda-11eb-9003-7c25da391b99.PNG)
 ---
-<p align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300"/>
-</p>
-
-
 
 <h1 align="center"> Hi, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
@@ -196,6 +191,11 @@ Machine Learning
 ---
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="280"/>
+</p>
+
+---
+<p align="center">
+  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300"/>
 </p>
 
 ---
