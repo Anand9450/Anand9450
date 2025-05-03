@@ -166,11 +166,8 @@
 ### 🌱 Currently Learning
 Machine Learning, Deep Learning, Computer Vision...
 
-### 📂 Projects & Portfolio
-
 🔗 Explore my interactive portfolio on 👉 [Click Here](http://portfolioanandshukla.netlify.app/)
 
----
 ---
 
 <!-- Snake Game -->
