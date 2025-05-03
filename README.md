@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies 💻
+### 🛠️ Tools & Technologies 💻
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-ffd1dc?style=for-the-badge&logo=python&logoColor=black"/>
@@ -143,7 +143,7 @@
 
 ---
 
-## All DSA Badges @LeetCode
+### All DSA Badges @LeetCode
 
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="65px"></img>
 <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-new.gif" width="65px"></img>
@@ -178,11 +178,6 @@ Machine Learning, Deep Learning, Computer Vision...
 <div align ="center">
   <img src="https://raw.githubusercontent.com/CODEBRAKERBOYY/CODEBRAKERBOYY/output/github-snake-dark.svg" alt="ERROR:404 XoX" title="Ohh No, it's eating my contributions from the graph" >
 </div> 
-
----
-<p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="280"/>
-</p>
 
 ---
 <p align="center">
