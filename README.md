@@ -9,7 +9,7 @@
 
 
 ---
-<h3 align="center">Data Analyst | Machine Learning Enthusiast</h3>
+<h3 align="center">Data Analyst | Computer Science Enthusiast</h3>
 
 <p align="center">
   <a href="http://portfolioanandshukla.netlify.app/" target="_blank">
@@ -23,13 +23,12 @@
 ---
 ## Welcome to My GitHub Profile
 
-- 🏫 I'm currently prefinal year CSE **Data Science** student at [Pranveer Singh Institute of Technology](https://www.psit.ac.in// "visit my college website").
+- 🏫 I'm currently final year CSE **Data Science** student at [Pranveer Singh Institute of Technology](https://www.psit.ac.in// "visit my college website").
 
 ## 📌 About Me
 - 📊 Aspiring **Data Analyst** passionate about data-driven decision making
-- ✍️ Author of *Scars and Silence* — a bilingual poetry collection exploring growth, responsibility, and healing
-- 🌱 Currently learning **Power BI**, **Machine Learning**, and **Advanced Analytics**
-- 💬 Ask me about: `SQL`, `Power BI`, `Python`, `Business Development`
+- 🌱 Currently learning **Data Sturctures and Algorithms**, **Machine Learning**, and **Advanced Analytics**
+- 💬 Ask me about: `DSA`, `DBMS`, `SQL`, `Power BI`, `Python`, `Web Development`
 - 🧠 I enjoy blending technical insights with creative expression
 
 ---
@@ -162,7 +161,7 @@
 
 ---
 ### 🌱 Currently Learning
-Machine Learning, Deep Learning, Computer Vision...
+Web Development, Machine Learning, Deep Learning, Computer Vision...
 
 🔗 Explore my interactive portfolio on 👉 [Click Here](http://portfolioanandshukla.netlify.app/)
 
